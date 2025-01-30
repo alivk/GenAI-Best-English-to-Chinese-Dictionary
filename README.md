@@ -46,4 +46,10 @@ project/
 ## Usage
 1. Enter a word or sentence in the input field
 2. View the detailed explanation
-3. Click "Pronounce (UK English)" to hear the pronunciation 
+3. Click "Pronounce (UK English)" to hear the pronunciation
+
+## Example Usecases
+If we input - I have a cisco `switch`
+[![Alt text of the image](https://github.com/alivk/GenAI-Best-English-to-Chinese-Dictionary/temp/example_001.png)
+If we input - I have a Nintendo `switch`
+[![Alt text of the image](https://github.com/alivk/GenAI-Best-English-to-Chinese-Dictionary/temp/example_002.png)
