@@ -49,7 +49,11 @@ project/
 3. Click "Pronounce (UK English)" to hear the pronunciation
 
 ## Example Usecases
+
 > If we input - I have a Nintendo `switch`
+
 [Alt text of the image](https://github.com/alivk/GenAI-Best-English-to-Chinese-Dictionary/blob/main/temp/example_001.png)
+
 > If we input - I have a cisco `switch`
+
 [Alt text of the image](https://github.com/alivk/GenAI-Best-English-to-Chinese-Dictionary/blob/main/temp/example_002.png)
